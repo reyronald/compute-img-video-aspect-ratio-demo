@@ -1,0 +1,23 @@
+{
+  "name": "compute-img-video-aspect-ratio-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reyronald/compute-img-video-aspect-ratio-demo.git"
+  },
+  "keywords": [],
+  "author": "Ronald Rey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reyronald/compute-img-video-aspect-ratio-demo/issues"
+  },
+  "homepage": "https://github.com/reyronald/compute-img-video-aspect-ratio-demo#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
